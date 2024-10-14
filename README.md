@@ -12,17 +12,17 @@ This project presents a Power BI dashboard for Daraz Bangladesh, the country’s
 - Number of Items Sold: 8,523
 
 # Key Insights
-1. Sales by Item Type:
+## Sales by Item Type:
   - Highest: Fruits and Vegetables ($178K)
   - Followed by: Snack Foods ($175K)
   - Sales by Outlet Type:
   - Supermarket Type1: $0.51M
   - Grocery Stores: $0.10M
-2. Outlet Size Distribution:
+## Outlet Size Distribution:
   - Medium: 42.27% of total sales ($507.9K)
   - Small: 37.01%
   - High: 20.72%
-3. Sales by Outlet Location Type:
+## Sales by Outlet Location Type:
   - Tier 3: 71.3% ($472.13K)
   - Tier 2 and Tier 1 follow with significant contributions.
 
